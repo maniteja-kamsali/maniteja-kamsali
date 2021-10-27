@@ -3,9 +3,9 @@
 
 
 ### I have technical experience and interest in -
-* Computer vision 
+* Data Science 
 * Natural Language Processing 
-* Data Analytics
+* Computer vision
 
 <h3 align="left">Languages and Tools:</h3>
 
